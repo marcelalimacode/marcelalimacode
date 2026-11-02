@@ -11,7 +11,6 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/marcela-lima-qa)!
 - 🐞 Working in Software Quality since 2024
 - 🎓 Information Technology at **UNIVESP**
 - 📈 5 years in digital marketing before QA, so I test with the real user journey in mind
-- 🌎 Open to remote QA opportunities worldwide
 
 <br />
 
